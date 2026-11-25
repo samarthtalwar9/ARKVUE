@@ -576,9 +576,9 @@ These are potential future improvements, not claims about existing functionality
 ---
 
 <p align="center">
-  <strong>Designed & Developed by Samarth A Talwar</strong>
+  <strong>Designed & Developed by Samarth  Talwar</strong>
   <br />
   ARKVUE – Lead Management System
   <br />
-  © 2026 Samarth A Talwar. All rights reserved.
+  © 2026 Samarth  Talwar. All rights reserved.
 </p>
